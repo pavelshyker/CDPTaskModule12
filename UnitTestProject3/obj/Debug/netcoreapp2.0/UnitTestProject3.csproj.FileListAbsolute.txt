@@ -1,0 +1,14 @@
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\bin\Debug\netcoreapp2.0\UnitTestProject3.deps.json
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\bin\Debug\netcoreapp2.0\UnitTestProject3.runtimeconfig.json
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\bin\Debug\netcoreapp2.0\UnitTestProject3.runtimeconfig.dev.json
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\bin\Debug\netcoreapp2.0\UnitTestProject3.dll
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\bin\Debug\netcoreapp2.0\UnitTestProject3.pdb
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\obj\Debug\netcoreapp2.0\UnitTestProject3.csprojAssemblyReference.cache
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\obj\Debug\netcoreapp2.0\UnitTestProject3.csproj.CoreCompileInputs.cache
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\obj\Debug\netcoreapp2.0\UnitTestProject3.AssemblyInfoInputs.cache
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\obj\Debug\netcoreapp2.0\UnitTestProject3.AssemblyInfo.cs
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\obj\Debug\netcoreapp2.0\UnitTestProject3.dll
+C:\Users\Pavel_Shyker\source\repos\UnitTestProject3\UnitTestProject3\obj\Debug\netcoreapp2.0\UnitTestProject3.pdb
